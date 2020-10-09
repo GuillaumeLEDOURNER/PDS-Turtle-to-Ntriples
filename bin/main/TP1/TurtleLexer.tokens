@@ -1,0 +1,9 @@
+WS=1
+MOT=2
+TEXTE=3
+PTVIRG=4
+POINT=5
+VIRG=6
+';'=4
+'.'=5
+','=6

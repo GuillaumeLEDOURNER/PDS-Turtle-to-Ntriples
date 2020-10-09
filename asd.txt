@@ -1,0 +1,16 @@
+ASD du langage turtle
+
+turtle ::= Turtle (phrase*)
+phrase ::= Phrase ( sujet ,compl+ )
+compl ::= Compl (predicat, objet+)
+sujet ::= Sujet (String)
+predicat ::= Predicat (String) ;
+objet ::= Text(String) | Obj (String)
+
+ASD du langage Ntriple 
+
+ntriple ::= Ntriple (phrase*)
+phrase ::= Phrase ( sujet , predicat , objet )
+sujet ::= Sujet (String)
+predicat ::= Predicat (String) ;
+objet ::= Text(String) | Obj (String)
