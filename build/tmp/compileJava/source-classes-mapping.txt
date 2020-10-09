@@ -1,0 +1,25 @@
+TP1/TurtleLexer.java
+ TP1.TurtleLexer
+TP1/Main.java
+ TP1.Main
+TP1/ASD.java
+ TP1.ASD
+ TP1.ASD$Compl
+ TP1.ASD$Obj
+ TP1.ASD$Objet
+ TP1.ASD$Phrase
+ TP1.ASD$Predicat
+ TP1.ASD$Sujet
+ TP1.ASD$Text
+ TP1.ASD$Turtle
+TP1/TurtleParser.java
+ TP1.TurtleParser
+ TP1.TurtleParser$ComplContext
+ TP1.TurtleParser$DocumentContext
+ TP1.TurtleParser$ListComplContext
+ TP1.TurtleParser$ListObjetContext
+ TP1.TurtleParser$ListPhraseContext
+ TP1.TurtleParser$ObjetContext
+ TP1.TurtleParser$PhraseContext
+ TP1.TurtleParser$PredicatContext
+ TP1.TurtleParser$SujetContext
